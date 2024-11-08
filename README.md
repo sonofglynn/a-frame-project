@@ -1,1 +1,2 @@
 # a-frame-project
+This is a fun project I completed during my first year at Georgia Tech. I have always been interested in 3d animation, and this was the first time I used a fully programmatic way to make a 3d scene.
